@@ -1,0 +1,3 @@
+#if you don't have pygame
+#open the cmd
+#and enter command "pip install pygame"
